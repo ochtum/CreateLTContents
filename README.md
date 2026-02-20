@@ -1,5 +1,5 @@
 ※2026/02/19に実施<br>
-※たぶんハレーションを起こしているので内容は無視してください。<br><br>
+※たぶんハルシネーションを起こしているので内容は無視してください。<br><br>
 
 Qiita記事のMarkdownをコピペした上で「以下のQiita記事(MarkDown)からLT用の資料を作成してください。」で結果を比較してみました。<br>
 （PowerPointに書き出してくださいの追記が必要な場合は「作成してPowerPointに書き出してください」に末尾を変えています）
@@ -12,6 +12,11 @@ Qiita記事のMarkdownをコピペした上で「以下のQiita記事(MarkDown)�
 - Miro
 - CodexCLI(WSL環境：pptxスキル使用。gpt-5.3-codex medium)
 - GitHubCopilotCLI(Windows環境：CLIはスキルが使えないので、pptxスキルのパスを指定して使用してみました。claude-sonnet-4.6 (medium))
- 
+- (2026/02/20に追加)
+  - Figma Slides（プラグイン開発→AIにJSONを作ってもらって取込み）
+  - MarpとTailwindCSS（Marp＋TailwindCSS指定で作成依頼）
+   - CodexCLI
+   - GitHubCopilotCLI
+
 MiroとCanva（とくにこちら）はさすがの結果ですね。
 どちらもそのアプリ内で完結して編集＆プレゼン可能であるとともに、PDF出力できるのでSpeakerDeckやDocswellにアップロード可能なのがポイントですね。
